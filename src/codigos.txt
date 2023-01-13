@@ -1,0 +1,48 @@
+Resposta informacao1:
+
+[felipe.alberto@ead-bigdata01 informacao1]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+Australia	307
+
+
+Resposta informacao2:
+
+[felipe.alberto@ead-bigdata01 informacao2]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+Woven cotton fabric, > 200g/m2, dyed, nes	110
+
+
+Resposta informacao3:
+
+[felipe.alberto@ead-bigdata01 informacao3]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+2006	378065
+
+
+Resposta informacao4:
+
+[felipe.alberto@ead-bigdata01 informacao4]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+ALL COMMODITIES	9185
+
+
+Resposta informacao5:
+
+[felipe.alberto@ead-bigdata01 informacao5]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+ALL COMMODITIES	308
+
+
+Resposta informacao6:
+
+[felipe.alberto@ead-bigdata01 informacao6]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+Yarn of other synth staple fibres + cotton not retail	4
+
+
+Resposta informacao7:
+
+[felipe.alberto@ead-bigdata01 informacao7]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+Ceramic housewares, except of porcelain or china	2142688182
+
+
+Resposta informacao8:
+
+[felipe.alberto@ead-bigdata01 informacao8]$ cat part-r-00000 | sort -n -k 2,2 -t$'\t' | tail -1
+2002-Ferrous waste or scrap, nes	2147462519
+
+
